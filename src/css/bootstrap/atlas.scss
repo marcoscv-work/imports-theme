@@ -1,0 +1,19 @@
+/**
+* Lexicon 1.0.14
+*
+* Copyright 2017, Liferay, Inc.
+* All rights reserved.
+* MIT license
+*/
+@import "../base_partials/aui_variables";
+@import "fonts/alloy-font-awesome/scss/font-awesome";
+
+@import "lexicon-base/mixins/global-functions";
+
+@import "atlas-theme/main";
+
+@import "../base_partials/liferay_variables_custom";
+@import "../base_partials/liferay_variables";
+@import "bourbon";
+@import "../base_partials/aui_custom";
+@import "../base_partials/liferay_custom";
